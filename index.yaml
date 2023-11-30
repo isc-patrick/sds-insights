@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  insights:
+  - annotations:
+      intersystems/sds-category: custom
+      intersystems/sds-organization: InterSystems Corporation
+      intersystems/sds-title: SDS Insights Stratification Service
+    apiVersion: v2
+    appVersion: 0.1.1
+    created: "2023-11-30T12:56:01.684965-05:00"
+    description: A Helm chart for the insights stratification service
+    digest: d79b154368d3b19e8f9c1bc3a4af572637627578f8c9e160951c55097d83eeb6
+    name: insights
+    type: application
+    urls:
+    - insights-0.1.1.tgz
+    version: 0.1.1
+generated: "2023-11-30T12:56:01.683089-05:00"
